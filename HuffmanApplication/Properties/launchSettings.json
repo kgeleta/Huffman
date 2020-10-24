@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HuffmanApplication": {
+      "commandName": "Project",
+      "commandLineArgs": "e 2 test/seneca.txt test/senecaEncoded.txt"
+    }
+  }
+}
